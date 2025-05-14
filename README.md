@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Ane ❇️
+
+### I'm a Software Developer 🌐
+
+- 🔭 Self-starter developer.
+- 🌱 I’m currently learning **NestJS**.
+- 📎 I recently built a [Forum API](https://github.com/AneWeber/Forum-API-DDD) using Domain-Driven Design (DDD), featuring functionality such as Questions, Answers, Best Answer selection, and Notifications.
+- 🏗️ Postgraduate architect.
+- 🏝️ A Brazilian living on the tiny island of Malta.
+
+### Contact Information:
+- 📫 anemariweber@gmail.com
+- 🔎 [linkedin](linkedin.com/in/anemweber) /anemweber
+
 
 <!--
-**AneWeber/aneweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#TODO
+### Languages and Tools:
 -->
