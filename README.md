@@ -3,10 +3,10 @@
 ### I'm a Software Developer 🌐
 
 - 🔭 Self-starter developer.
-- 🌱 I’m currently learning **NestJS**.
+- 🌱 I’m currently learning **C#**.
 - 📎 I recently built a [Forum API](https://github.com/AneWeber/Forum-API-DDD) using Domain-Driven Design (DDD), featuring functionality such as Questions, Answers, Best Answer selection, and Notifications.
+- 🔥 Completed FullStack Bootcamp and Node.js specialization.
 - 🏗️ Postgraduate architect.
-- 🏝️ A Brazilian living on the tiny island of Malta.
 
 ### Contact Information:
 - 📫 anemariweber@gmail.com
