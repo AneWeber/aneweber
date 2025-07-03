@@ -10,7 +10,7 @@
 
 ### Contact Information:
 - 📫 anemariweber@gmail.com
-- 🔎 [linkedin](linkedin.com/in/anemweber) /anemweber
+- 🔎 [linkedin](https://www.linkedin.com/in/anemweber/) /anemweber
 
 #
 #### Languages:
