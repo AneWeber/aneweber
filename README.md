@@ -3,9 +3,9 @@
 ### I'm a Software Developer 🌐
 
 - 🔭 Self-starter developer.
+- 🔥 Completed FullStack Bootcamp and Node.js specialization.
 - 🌱 I’m currently learning **C#** and **.NET**, check here my [Hello, World](https://github.com/AneWeber/HelloWorld-CSharp/blob/master/README.md) to have some fun!
 - 📎 I recently built a [Forum API](https://github.com/AneWeber/Forum-API-DDD) using Domain-Driven Design (DDD), featuring functionality such as Questions, Answers, Best Answer selection, and Notifications.
-- 🔥 Completed FullStack Bootcamp and Node.js specialization.
 - 🏗️ Postgraduate architect.
 
 ### Contact Information:
