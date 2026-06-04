@@ -2,10 +2,9 @@
 
 ### I'm a Software Developer 🌐
 
-- 🔭 Self-starter developer, transitioning from an architecture background.
-- 🔥 Completed FullStack Bootcamp and Node.js specialization.
-- 🌱 I’m currently learning **C#** and **.NET**, check here my [Hello, World](https://github.com/AneWeber/HelloWorld-CSharp/blob/master/README.md) to have some fun!
-- 📎 I recently built a [Forum API](https://github.com/AneWeber/Forum-API-DDD) using Domain-Driven Design (DDD), featuring functionality such as Questions, Answers, Best Answer selection, and Notifications.
+- 🔭 System Developer with full-stack experience and an architecture background.
+- 💻 Currently working with React, Next.js, TypeScript, Tailwind CSS, Node.js, and C# .NET.
+- 🚀 Passionate about building practical, user-focused solutions and improving systems through clean, scalable code.
 
 ### Contact Information:
 - 📫 anemariweber@gmail.com
